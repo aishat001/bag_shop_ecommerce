@@ -1,0 +1,28 @@
+.slider {
+    max-height: 600px;
+.slider_container {
+    width: 400vw;
+    display: flex;
+    transition: all 1s ease;
+    overflow: hidden;
+    /* transform: translateX(100vw); */
+
+
+        img {
+            width: 100vw;
+
+            object-fit: cover;
+        }
+    
+
+
+
+}
+
+.icon {
+
+    border:1px solid #999;
+}
+}
+
+
